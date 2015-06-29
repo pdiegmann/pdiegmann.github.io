@@ -1,0 +1,11 @@
+# Site settings
+title: Phil Diegmann on GitHub
+email: mail@phildiegmann.com
+description: Public Repositories of Phil Diegmann on GitHub
+baseurl: "/pdiegmann.github.io"
+url: "https://pdiegmann.github.io" # the base hostname & protocol for your site
+twitter_username: pdiegmann
+github_username:  pdiegmann
+
+# Build settings
+markdown: kramdown
